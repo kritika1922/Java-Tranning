@@ -1,7 +1,0 @@
- 6
- 5
- 4
- 3 fghj
- 2 asdrfg
-[1234, wert, sadfg, wert, sxdcf]
-[qwsdf, xscdf, wedrf, xscdvf, wer]
